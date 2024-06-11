@@ -2,7 +2,7 @@
 
 
 ---
-**Olá, muito prazer! Meu nome é Adria e sou um jovem apaixonado por programação e technologia, e uma das coisas que gosto de fazer no tempo livre é aprender coisas novas, principalmente se envolver programação.**
+**Olá, muito prazer! Meu nome é Adrian e sou um jovem apaixonado por programação e technologia, e uma das coisas que gosto de fazer no tempo livre é aprender coisas novas, principalmente se envolver programação.**
 
 ---
 ## Conhecimentos ##
